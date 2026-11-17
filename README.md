@@ -1,5 +1,5 @@
 # Web Studio
 
-Homework 4 for the GoIT HTML/CSS course: Web Studio landing page with an SVG icon sprite and decorative effects (shadows, overlays, transitions).
+Homework 5 for the GoIT HTML/CSS course: Web Studio landing page with a modal window, a request form with a custom checkbox and a footer subscribe form.
 
-Live page: https://danielelytvynenko.github.io/goit-markup-hw-04/
+Live page: https://danielelytvynenko.github.io/goit-markup-hw-05/
